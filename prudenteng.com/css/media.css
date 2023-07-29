@@ -1,0 +1,256 @@
+@media only screen and (min-width: 992px) {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+    .dropdown-toggle::after {
+        display: none;
+    }
+    .mega-menu {
+        position: inherit;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    h1 {
+        font-size: 50px;
+        line-height: 56px;
+    }
+    .banner_text p br {
+        display: none;
+    }
+    .banner_text p {
+        font-size: 18px;
+        line-height: 27px;
+    }
+    ul.navbar-nav li a {
+        margin: 0 12px;
+    }
+    .posts_tabs .owl-theme .owl-nav {
+        bottom: 30px;
+    }
+    .title_line {
+        display: block;
+    }
+    .mail-link {
+        padding: 0;
+        margin: 0;
+        border-left: 0;
+        border-right: 0;
+        margin-bottom: 12px !important;
+        display: inline-block;
+    }
+    .team_text_box h4 {
+        font-size: 17px;
+    }
+    .team_text_box p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .team_text_box {
+        padding: 15px;
+    }
+    .form_box {
+        padding: 25px 15px;
+    }
+    .form_box .form-control {
+        margin: 0 5px;
+        font-size: 12px;
+    }
+    table.table_job_list tr td:first-child,
+    table.table_job_list tr th:first-child {
+        width: 25%;
+    }
+    table.table_job_list h5 {
+        font-size: 14px;
+    }
+    .date_box {
+        font-size: 12px;
+    }
+    table.table_job_list p {
+        font-size: 14px;
+        padding-right: 11px;
+    }
+    table.table_job_list {
+        width: 790px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .banner_text h1 {
+        font-size: 40px;
+        line-height: 44px;
+    }
+    button.navbar-toggler {
+        order: 3;
+    }
+    a.header_logo {
+        order: 1;
+    }
+    .right_edn {
+        order: 2;
+    }
+    h1 {
+        font-size: 30px;
+        line-height: 37px;
+    }
+    .common-btn {
+        font-size: 13px;
+        padding: 6px 13px;
+    }
+    .banner_text {
+        background-color: rgb(0 0 0 / 68%);
+        padding: 60px 30px;
+    }
+    .test_client {
+        width: 200px;
+        position: absolute;
+        top: -70px;
+        transform: translateY(0%);
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    .test-content {
+        margin-left: 0px;
+        padding-left: 42px;
+        margin-top: 95px;
+        padding-top: 188px;
+    }
+    .we-do-left h2 {
+        word-break: break-word;
+    }
+    .dropdown-toggle::after {
+        position: absolute;
+        right: 0;
+    }
+    .dropdown-menu {
+        padding: 21px 30px !important;
+    }
+    .mega-menu .dropdown-menu p {
+        font-size: 12px;
+        line-height: 14px;
+        margin-bottom: 6px;
+    }
+    ul.links-menu {
+        padding: 0;
+        margin: 20px 0;
+    }
+    .mega-menu .links-menu li a {
+        text-transform: capitalize;
+        margin-left: 0;
+        padding: 2px 0 !important;
+        font-size: 12px;
+    }
+    .navbar .header_logo {
+        order: 2;
+    }
+    .navbar .navbar-toggler {
+        order: 1;
+    }
+    .navbar .right_edn {
+        order: 3;
+    }
+    .navbar-toggler-icon {
+        background-image: url("../images/menu-left.svg") !important;
+    }
+    button.navbar-toggler {
+        border: 0;
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .careers_form {
+        margin-top: 50px;
+    }
+    .js-height-full {
+        height: 200px !important;
+    }
+    .home-section.mt-pull-70 {
+        margin-top: 0 !important;
+    }
+    .scroll-down {
+        display: none;
+    }
+    .we-do-left {
+        margin-bottom: 75px;
+    }
+    .keys_text_left {
+        padding: 40px 35px;
+    }
+    .common-btn {
+        font-size: 11px;
+        padding: 6px 11px;
+    }
+    .footer_left_box p.mb-0.pt-10 {
+        padding: 0 !important;
+    }
+    .footer_right_box .col-md-3 {
+        padding: 0 !important;
+    }
+    .we-do-left,
+    .we-do-right,
+    .featured-sec .col-md-7,
+    .news-sec .col-md-7 {
+        padding: 0 25px;
+    }
+    .news-sec .col-md-7,
+    .featured-sec .col-md-7 {
+        margin-bottom: 0px !important;
+    }
+    .testimonial .we-do-left {
+        margin-bottom: 0px !important;
+    }
+    .slider_owl {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .item {
+        padding: 14px;
+    }
+    .owl-theme .owl-nav {
+        padding-right: 0;
+    }
+    .container {
+        padding: 0 31px;
+    }
+    .Projects_page div#myTabContent {
+        margin-top: 50px;
+    }
+    div#searchModal .search_popup {
+        max-width: 250px;
+        margin: auto;
+    }
+    div#searchModal button.btn-close {
+        right: 10px;
+    }
+    .team_main_pge h3 {
+        margin-top: 35px;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    h2 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .common-btn {
+        font-size: 10px;
+        padding: 6px 11px;
+    }
+    .services_page_design li {
+        width: 100%;
+    }
+    .banner_text {
+        padding: 45px 22px;
+    }
+    .banner_text p {
+        margin-bottom: 35px;
+    }
+    a.header_logo {
+        width: 104px;
+    }
+    .search_box {
+        margin-right: 0;
+    }
+}

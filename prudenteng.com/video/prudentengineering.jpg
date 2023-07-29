@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title></title>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="Shortcut Icon" href="/favicon.ico">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+      <link href="/css/bootstrap.min.css" rel="stylesheet">
+      <link rel="stylesheet" href="/css/owl.carousel.min.css">
+      <link rel="stylesheet" href="/css/owl.theme.default.min.css">
+      <link href="/css/style.css" rel="stylesheet">
+      <link href="/css/media.css" rel="stylesheet">
+      <link href="/css/YTPlayer.css" rel="stylesheet">  
+      <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+   </head>
+   <body>
+      <a id="back-to-top"><img src="/images/Icon-MoveUp.png"></a>
+      <header>
+         <section class="top_header">
+            <div class="container">
+               <div class="row">
+                  <div class="col-md-12">
+                     <nav class="navbar navbar-expand-lg bg-body-tertiary ">
+                        <a href="https://prudenteng.com" class="header_logo">
+                        <img src="https://prudenteng.com/backend/uploads/media/PE-Logo@2x.png">
+                        </a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+                        <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                           <div class="offcanvas-header">
+                              <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Menu</h5>
+                              <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"> </button>
+                           </div>
+                           <div class="offcanvas-body">
+                              <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
+                                 <li class="nav-item">
+                                    <a class="nav-link px-lg-4 " aria-current="page" href="https://prudenteng.com">HOME</a>
+                                 </li>
+                                 <li class="nav-item dropdown mega-menu">
+                                    <a class="nav-link px-lg-4 dropdown-toggle  " href="https://prudenteng.com/what-we-do" data-bs-toggle="dropdown" aria-expanded="false">WHAT WE DO</a>
+                                    <div class="dropdown-menu">
+                                       <div class="row">
+                                          <div class="col-xl-3 col-lg-3 col-md-12">
+                                             <div class="pt-4 pb-4">
+                                                <p class="" style="text-align: left;">Our<span style="letter-spacing: 0px;"> team </span><span style="letter-spacing: 0px;">at Prudent Engineering leverages its expertise to tackle complex engineering challenges across various industries. Through meticulous planning, meticulous attention to detail, and a focus on sustainable practices, we ensure that our engineering solutions are not only innovative and reliable but also environmentally conscious. Whether it's providing comprehensive project management or offering specialized technical consultations, our commitment to excellence remains unwavering. Prudent Engineering is dedicated to delivering high-quality solutions that drive success for our clients while promoting sustainable development.</span></p>
+                                             </div>
+                                          </div>
+                                                                                    <div class="col-xl-5 col-lg-5 col-md-12">
+                                             <div class="pt-4 pb-4">
+                                                <ul class="links-menu">
+                                                   <li><a href="https://prudenteng.com/what-we-do" class="text_btn">Overview <img class="ms-2" src="/images/Icon-ReadMore-Next.png"></a></li>
+                                                                                                         <li><a class="menu-link" href="https://prudenteng.com/services/bridge-structural-design">Bridge & Structural Design</a></li>
+                                                                                                         <li><a class="menu-link" href="https://prudenteng.com/services/construction-inspection-management-ny">Construction Inspection & Management (NY)</a></li>
+                                                                                                         <li><a class="menu-link" href="https://prudenteng.com/services/civil-site-design">Civil & Site Design</a></li>
+                                                                                                         <li><a class="menu-link" href="https://prudenteng.com/services/bridge-structural-condition-inspection">Bridge & Structural Condition Inspection</a></li>
+                                                                                                         <li><a class="menu-link" href="https://prudenteng.com/services/land-surveying">Land Surveying</a></li>
+                                                                                                         <li><a class="menu-link" href="https://prudenteng.com/services/cmci-pa">CMCI (PA)</a></li>
+                                                                                                         <li><a class="menu-link" href="https://prudenteng.com/services/hydrographic-services">Hydrographic Services</a></li>
+                                                                                                         <li><a class="menu-link" href="https://prudenteng.com/services/highway-design">Highway Design</a></li>
+                                                                                                         <li><a class="menu-link" href="https://prudenteng.com/services/vertical-construction-inspection-management">Vertical Construction Inspection & Management</a></li>
+                                                                                                         <li><a class="menu-link" href="https://prudenteng.com/services/design-build-services">Design - Build Services</a></li>
+                                                                                                   </ul>
+                                             </div>
+                                          </div>
+                                          <div class="col-xl-3 col-lg-3 col-md-12">
+                                             <div class="text-center"><img src="https://prudenteng.com/backend/uploads/media/menu1_0.png"></div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </li>
+                                 <li class="nav-item dropdown mega-menu">
+                                    <a class="nav-link px-lg-4 dropdown-toggle   " href="https://prudenteng.com/projects" data-bs-toggle="dropdown" aria-expanded="false">PROJECTS</a>
+                                    <div class="dropdown-menu">
+                                       <div class="row">
+                                          <div class="col-xl-4 col-lg-4 col-md-12">
+                                             <div class="pt-4 pb-4">
+                                                <h5 class="feature-product">FEATURED PROJECTS</h5>
+                                                                                                  <p class="project_links">
+                                                       <a href="https://prudenteng.com/projects/nysta-cashless-tolling">
+                                                           NYSTA Cashless Tolling
+                                                           <span>Syracuse and Buffalo, NY | 06/02/2023</span>
+                                                       </a>
+                                                   </p>
+                                                                                                  <p class="project_links">
+                                                       <a href="https://prudenteng.com/projects/alexandria-bay-riverwalk-project">
+                                                           ALEXANDRIA BAY RIVERWALK PROJECT
+                                                           <span>Jefferson County, New York | Completed</span>
+                                                       </a>
+                                                   </p>
+                                                                                                  <p class="project_links">
+                                                       <a href="https://prudenteng.com/projects/reconstruction-of-canal-wall-along-the-erie-canal">
+                                                           RECONSTRUCTION OF CANAL WALL ALONG THE ERIE CANAL
+                                                           <span>Village of Fairport, New York | Completed</span>
+                                                       </a>
+                                                   </p>
+                                                                                              </div>
+                                          </div>
+                                          <div class="col-xl-4 col-lg-4 col-md-12">
+                                             <div class="pt-4 pb-4">
+                                                                                                          <p class="project_links">
+                                                           <a href="https://prudenteng.com/projects/costello-parkway-cs-55-over-csx-railroad">
+                                                               COSTELLO PARKWAY (CS 55) OVER CSX RAILROAD
+                                                               <span>Town of Manlius, Onondaga County, New York | Completed</span>
+                                                           </a>
+                                                       </p>
+                                                                                                          <p class="project_links">
+                                                           <a href="https://prudenteng.com/projects/bridge-superstructure-replacements-nys-route-960h-over-catatonk-creek-connection-road-over-osborne">
+                                                               BRIDGE SUPERSTRUCTURE REPLACEMENTS NYS ROUTE 960H OVER CATATONK CREEK; CONNECTION ROAD OVER OSBORNE
+                                                               <span>Town of Candor, Tioga County, New York; Town of Colesville, Broome County, New York | Completed</span>
+                                                           </a>
+                                                       </p>
+                                                                                                          <p class="project_links">
+                                                           <a href="https://prudenteng.com/projects/albany-schenectady-double-track">
+                                                               ALBANY-SCHENECTADY DOUBLE TRACK
+                                                               <span>Albany & Schenectady Counties, New York | 2021-Ongoing</span>
+                                                           </a>
+                                                       </p>
+                                                                                                   <a href="https://prudenteng.com/projects" class="text_btn ms-0">View all projects <img class="ms-2" src="/images/Icon-ReadMore-Next.png"></a>
+                                             </div>
+                                          </div>
+                                          <div class="col-xl-4 col-lg-4 col-md-12">
+                                             <img src="https://prudenteng.com/backend/uploads/media/menu2.png">
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </li>
+                                 <li class="nav-item dropdown single_dropmenu">
+                                    <a class="nav-link px-lg-4 dropdown-toggle    " href="#" data-bs-toggle="dropdown" aria-expanded="false">ABOUT</a>
+                                    <ul class="dropdown-menu">
+                                       <li><a class="dropdown-item" href="https://prudenteng.com/about-us">About Prudent</a></li>
+                                       <li><a class="dropdown-item" href="https://prudenteng.com/history">Firm History</a></li>
+                                       <li><a class="dropdown-item" href="https://prudenteng.com/teams">Meet the Team</a></li>
+                                    </ul>
+                                 </li>
+                                 <li class="nav-item">
+                                    <a class="nav-link px-lg-4  " href="https://prudenteng.com/news">NEWS</a>
+                                 </li>
+                                 <li class="nav-item">
+                                    <a class="nav-link px-lg-4  " href="https://prudenteng.com/careers">CAREERS</a>
+                                 </li>
+                                 <li class="nav-item d-xl-none d-lg-none d-md-block d-sm-block d-block">
+                                    <a class="nav-link px-lg-4" href="https://prudenteng.com/contact-us">Contact Us</a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="right_edn">
+                           <a href="#" class="search_box" data-bs-toggle="modal" data-bs-target="#searchModal">
+                           <img src="/images/Icon-Search.png">
+                           </a>
+                           <a href="https://prudenteng.com/contact-us" class="common-btn bord-org-btn d-xl-inline d-lg-inline d-md-none d-sm-none d-none">Contact </a>
+                        </div>
+                     </nav>
+                  </div>
+               </div>
+            </div>
+         </section>
+      </header>
+      <!-- <main> -->
+                 <!-- start section -->
+        <section class="p-0 cover-background wow animate__fadeIn" style="background-image:url('frontend/images/products-bg.jpg');">
+            <div class="container">
+                <div class="row align-items-stretch justify-content-center full-screen">
+                    <div class="col-12 col-xl-6 col-lg-7 col-md-8 text-center d-flex align-items-center justify-content-center flex-column">
+                        <h6 class="alt-font text-fast-blue font-weight-600 letter-spacing-minus-1px margin-10px-bottom text-uppercase">test</h6>
+                        <h1 class="alt-font text-extra-big font-weight-700 letter-spacing-minus-5px text-extra-dark-gray margin-4-rem-bottom md-margin-4-rem-bottom">404</h1>
+                    </div>
+                </div>
+            </div>
+        </section>
+      <!-- </main> -->
+      <footer>
+         <section class="footer">
+            <div class="container-fluid p-0">
+               <div class="row g-0">
+                  <div class="col-md-4">
+                     <div class="footer_left_box">
+                        <a href="#">
+                        <img src="https://prudenteng.com/backend/uploads/media/PE-Logo-White.png">
+                        </a>
+                        <p class="mt-3">Prudent Engineering, LLP is a multi-disciplinary firm providing quality, cost-effective engineering design, survey, and inspection services for clients across New York and Pennsylvania.</p>
+                        <div class="row">
+                           <div class="col-md-6">
+                              <p>6390 Fly Road<br> East Syracuse, NY 13057</p>
+                           </div>
+                           <div class="col-md-6">
+                              <p class="mb-0"><a href="mailto:Info@prudenteng.com">Info@prudenteng.com</a> </p>
+                              <p><a href="tel:(315)748-7700">(315)748-7700</a></p>
+                           </div>
+                        </div>
+                        <p class="mb-0 pt-10">© 2023 by Prudent engineering, LLP</p>
+                     </div>
+                  </div>
+                  <div class="col-md-8">
+                     <div class="footer_right_box">
+                        <div class="row g-0 footer_menu">
+                           <div class="col-md-6 pe-3">
+                              <p><strong>WHAT WE DO</strong></p>
+                              <hr>
+                              <div class="row g-0">
+                                                                  <div class="col-md-6">
+                                    <ul class="menu_list">
+                                                                                 <li><a href="https://prudenteng.com/services/bridge-structural-design">Bridge & Structural Design</a></li>
+                                                                                 <li><a href="https://prudenteng.com/services/construction-inspection-management-ny">Construction Inspection & Management (NY)</a></li>
+                                                                                 <li><a href="https://prudenteng.com/services/civil-site-design">Civil & Site Design</a></li>
+                                                                                 <li><a href="https://prudenteng.com/services/bridge-structural-condition-inspection">Bridge & Structural Condition Inspection</a></li>
+                                                                           </ul>
+                                 </div>
+                                 <div class="col-md-6">
+                                    <ul class="menu_list">
+                                                                                                                        <li><a href="https://prudenteng.com/services/land-surveying">Land Surveying</a></li>
+                                                                                 <li><a href="https://prudenteng.com/services/cmci-pa">CMCI (PA)</a></li>
+                                                                                 <li><a href="https://prudenteng.com/services/hydrographic-services">Hydrographic Services</a></li>
+                                                                                 <li><a href="https://prudenteng.com/services/highway-design">Highway Design</a></li>
+                                                                                 <li><a href="https://prudenteng.com/services/vertical-construction-inspection-management">Vertical Construction Inspection & Management</a></li>
+                                                                                 <li><a href="https://prudenteng.com/services/design-build-services">Design - Build Services</a></li>
+                                                                           </ul>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-md-3 ps-3 pe-3">
+                              <p><strong>COMPANY</strong></p>
+                              <hr>
+                              <ul class="menu_list">
+                                 <li><a href="https://prudenteng.com/what-we-do">Services </a></li>
+                                 <li><a href="https://prudenteng.com/projects">Projects </a></li>
+                                 <li><a href="https://prudenteng.com/careers">Team Careers </a></li>
+                                 <li><a href="https://prudenteng.com/news">News & Updates </a></li>
+                                 <li><a href="https://prudenteng.com/contact-us">Contact</a></li>
+                              </ul>
+                           </div>
+                           <div class="col-md-3 ps-3">
+                              <div class="end_box">
+                                 <div class="row">
+                                    <div class="col-md-12 mb-4">
+                                       <p><strong>STAFF PORTAL</strong></p>
+                                       <hr>
+                                       <ul class="menu_list">
+                                          
+                                          
+                                          <li><a href="https://www.prudentstaffportal.site/" target="_blank">Login</a></li>
+                                       </ul>
+                                    </div>
+                                                                                                                <div class="col-md-12 mb-4">
+                                            <p><strong>SOCIAL MEDIA</strong></p>
+                                            <hr>
+                                            <ul class="social_media">
+                                                                                                    <li><a href="https://www.facebook.com/people/Prudent-Engineering-LLP/100063685008580/" target="_blank"><img src="/images/Icon-Social-Fb-White.png"></a></li>
+                                                                                                                                                    <li><a href="https://www.linkedin.com/company/prudent-engineering-llp/" target="_blank"><img src="/images/Icon-Social-In-White.png"></a></li>
+                                                                                                                                                    <li><a href="https://www.instagram.com/prudentengineers/" target="_blank"><img src="/images/Icon-Social-Insta-White.png"></a></li>
+                                                                                            </ul>
+                                        </div>
+                                                                     </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+      </footer>
+      <script type="text/javascript" src="/js/jquery.min.js"></script>
+      <script type="text/javascript" src="/js/bootstrap.bundle.min.js"></script>
+      <script type="text/javascript" src="/js/owl.carousel.min.js"></script>
+      <script type="text/javascript" src="/js/custom.js"></script>
+      <script type="text/javascript" src="/js/jquery.backgroundvideo.min.js"></script> 
+      <script type="text/javascript" src="/js/jquery.mb.YTPlayer.js"></script>   
+            <div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true">
+         <div class="modal-dialog">
+            <div class="modal-content">
+               <div class="modal-body">
+                  <form class="d-flex search_popup" role="search" action="https://prudenteng.com/search-results" method="GET">
+                     <input class="form-control" type="search" name="search" placeholder="Search" aria-label="Search">
+                     <button class="btn btn-outline-success" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                  </form>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+               </div>
+            </div>
+         </div>
+      </div>
+   </body>
+</html>
